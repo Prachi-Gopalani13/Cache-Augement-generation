@@ -4,10 +4,6 @@ A demo of Cache-Augmented Generation (CAG) using Mistral-7B.
 
 CAG preloads relevant knowledge into a language model's context, allowing for faster and more efficient question-answering without real-time document retrieval.
 
-Article: https://medium.com/@ronantech/cache-augmented-generation-cag-in-llms-a-step-by-step-tutorial-6ac35d415eec
-
-Google Colab: https://colab.research.google.com/drive/1-0eKIu6cGAZ47ROKQaF6EU-mHtvJBILV?usp=sharing
-
 ## Overview
 
 The notebook `cag_demo.ipynb` showcases the core steps of CAG:
